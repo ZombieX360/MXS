@@ -2892,3 +2892,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 22:58:28.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
 [23Dec2024 22:58:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
 [23Dec2024 23:02:36.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Acquire Hardware]
+[23Dec2024 23:15:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Strong or Careful]
+[23Dec2024 23:15:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Bonescaller
+[23Dec2024 23:15:14.129] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Dec2024 23:15:16.071] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[23Dec2024 23:15:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Junior Summoner]

@@ -18652,3 +18652,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 23:09:59.795] [Worker-Main-7/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1166, y=-33, z=1859} at Sarcophagus with:graveyard:chests/crypt_loot
 [23Dec2024 23:11:47.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 23:11:47.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:15:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Strong or Careful]
+[23Dec2024 23:15:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Bonescaller
+[23Dec2024 23:15:14.120] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:821, y:64, z:1653, dim:minecraft:overworld]
+[23Dec2024 23:15:14.129] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Dec2024 23:15:15.624] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[23Dec2024 23:15:16.071] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[23Dec2024 23:15:16.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[23Dec2024 23:15:16.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[23Dec2024 23:15:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Junior Summoner]
+[23Dec2024 23:16:45.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:16:45.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:21:45.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:21:45.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

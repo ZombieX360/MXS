@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-23 23:12:16 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2024-12-23 21:39:49 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-23 23:14:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 21:51:42 +0000"
@@ -626,6 +638,12 @@
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2024-12-23 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 23:15:14 +0000"
     },
     "done": true
   },
@@ -674,6 +692,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-23 21:55:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-23 23:15:26 +0000"
     },
     "done": true
   },
@@ -800,6 +824,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-23 23:14:28 +0000"
     },
     "done": true
   },
@@ -1729,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-23 23:14:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-23 21:42:46 +0000"
@@ -1744,6 +1780,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-23 21:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-23 23:14:28 +0000"
     },
     "done": true
   },
@@ -2452,6 +2494,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-23 23:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 21:51:42 +0000"
@@ -2932,6 +2980,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-23 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/tools/wooden_paintbrush": {
+    "criteria": {
+      "has_item": "2024-12-23 23:14:28 +0000"
     },
     "done": true
   },
