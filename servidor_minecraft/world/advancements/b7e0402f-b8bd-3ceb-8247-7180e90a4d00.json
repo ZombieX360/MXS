@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2024-12-23 22:31:00 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2024-12-23 21:55:27 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-23 22:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 21:55:27 +0000"
@@ -230,6 +242,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-23 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 22:28:29 +0000"
     },
     "done": true
   },
@@ -382,12 +400,6 @@
       "has_any_ingredient": "2024-12-23 21:56:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-23 22:21:11 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
@@ -656,6 +668,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 22:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-23 22:28:29 +0000"
     },
     "done": true
   },
@@ -1091,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-23 22:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-23 21:40:06 +0000"
@@ -1481,7 +1505,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-23 21:48:32 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
-      "minecraft:zombie": "2024-12-23 21:48:44 +0000"
+      "minecraft:zombie": "2024-12-23 21:48:44 +0000",
+      "minecraft:drowned": "2024-12-23 22:27:30 +0000"
     },
     "done": false
   },
@@ -1983,6 +2008,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2024-12-23 22:31:00 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/deepslate": {
     "criteria": {
       "has_planks": "2024-12-23 21:46:01 +0000"
@@ -2076,6 +2107,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-23 22:28:29 +0000"
     },
     "done": true
   },

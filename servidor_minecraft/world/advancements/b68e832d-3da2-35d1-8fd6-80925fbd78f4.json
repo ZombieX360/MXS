@@ -565,6 +565,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2024-12-23 22:23:37 +0000",
       "coniferous_forest": "2024-12-23 21:38:44 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
       "fir_clearing": "2024-12-23 22:06:04 +0000",
@@ -1583,9 +1584,21 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2024-12-23 22:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-23 22:21:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-23 22:22:42 +0000"
     },
     "done": true
   },
@@ -1610,6 +1623,12 @@
   "gnumus:vasebreaker": {
     "criteria": {
       "vasebreaker": "2024-12-23 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2024-12-23 22:28:28 +0000"
     },
     "done": true
   },

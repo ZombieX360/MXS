@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-23 22:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 22:09:51 +0000"
@@ -779,6 +785,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-23 22:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-23 22:10:59 +0000"
@@ -835,6 +847,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-23 22:22:32 +0000",
       "sweet_berries": "2024-12-23 22:04:48 +0000"
     },
     "done": false
@@ -932,6 +945,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-23 21:52:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-23 22:31:08 +0000"
     },
     "done": true
   },
@@ -1316,6 +1335,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-23 21:50:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-23 22:21:45 +0000"
     },
     "done": true
   },
@@ -1728,6 +1753,12 @@
       "minecraft:plains": "2024-12-23 21:49:24 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-23 22:31:08 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {

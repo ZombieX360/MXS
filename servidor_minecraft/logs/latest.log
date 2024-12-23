@@ -2682,3 +2682,27 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 22:21:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Hunt and Gather]
 [23Dec2024 22:21:47.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
 [23Dec2024 22:22:42.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Dark Metallurgy]
+[23Dec2024 22:23:03.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Dec2024 22:26:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[23Dec2024 22:26:35.051] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Dec2024 22:26:35.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[23Dec2024 22:26:36.459] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Dec2024 22:26:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Sweet Dreams]
+[23Dec2024 22:28:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Rotten King]
+[23Dec2024 22:28:37.066] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[23Dec2024 22:28:37.068] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[23Dec2024 22:28:37.068] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[23Dec2024 22:28:37.069] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[23Dec2024 22:28:37.069] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[23Dec2024 22:28:37.070] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[23Dec2024 22:28:37.071] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[23Dec2024 22:28:37.122] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[23Dec2024 22:28:37.123] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[23Dec2024 22:28:37.124] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[23Dec2024 22:28:37.124] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[23Dec2024 22:30:44.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Dec2024 22:31:00.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Rotten King]
+[23Dec2024 22:31:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Ashes 'n Bones]
+[23Dec2024 22:31:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Decaying Zombie
+[23Dec2024 22:31:42.286] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Dec2024 22:31:43.984] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
