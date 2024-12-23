@@ -565,6 +565,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-23 22:44:45 +0000",
+      "rocky_shrubland": "2024-12-23 22:47:13 +0000",
+      "maple_woods": "2024-12-23 22:43:43 +0000",
       "field": "2024-12-23 22:23:37 +0000",
       "coniferous_forest": "2024-12-23 21:38:44 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
@@ -1608,6 +1611,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-23 22:21:11 +0000"
@@ -1626,15 +1647,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 22:43:58 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-12-23 22:37:10 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 22:43:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-23 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
     },
     "done": true
   },
@@ -1650,6 +1695,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
   "gnumus:vasebreaker": {
     "criteria": {
       "vasebreaker": "2024-12-23 22:21:10 +0000"
@@ -1662,9 +1713,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2024-12-23 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 22:49:48 +0000"
     },
     "done": true
   },

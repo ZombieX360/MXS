@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2024-12-23 21:55:27 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-23 22:10:24 +0000"
@@ -725,6 +737,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 21:38:13 +0000"
@@ -986,6 +1004,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-23 21:55:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
     },
     "done": true
   },
@@ -1490,6 +1514,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 21:51:42 +0000"
@@ -1632,6 +1662,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2024-12-23 21:39:49 +0000"
@@ -1641,6 +1677,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 21:46:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
     },
     "done": true
   },
@@ -1683,6 +1725,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-23 21:53:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
     },
     "done": true
   },
@@ -1862,6 +1910,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-23 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
     },
     "done": true
   },
@@ -2106,6 +2160,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-12-23 22:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 21:46:01 +0000"
@@ -2151,6 +2211,12 @@
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2024-12-23 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-23 22:44:56 +0000"
     },
     "done": true
   },
@@ -2210,10 +2276,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-23 22:44:28 +0000",
+      "rocky_shrubland": "2024-12-23 22:44:18 +0000",
+      "maple_woods": "2024-12-23 22:43:34 +0000",
       "field": "2024-12-23 22:14:40 +0000",
       "coniferous_forest": "2024-12-23 21:38:09 +0000",
       "seasonal_forest": "2024-12-23 22:02:15 +0000",
       "fir_clearing": "2024-12-23 22:06:06 +0000",
+      "grassland": "2024-12-23 22:48:15 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:43 +0000",
       "gravel_beach": "2024-12-23 22:07:09 +0000"
     },
