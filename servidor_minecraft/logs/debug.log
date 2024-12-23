@@ -18626,3 +18626,29 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 23:01:45.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 23:01:45.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 23:02:36.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Acquire Hardware]
+[23Dec2024 23:04:44.167] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[23Dec2024 23:06:45.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:06:45.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:09:34.282] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[23Dec2024 23:09:48.513] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[23Dec2024 23:09:48.862] [Worker-Main-58/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_02 is being run through DFU (hash 3ebfdf2002a8616f946b612714ca2aaef948e21fc0586aefefad13f6a5d00e89), this will cause launch time delays
+[23Dec2024 23:09:49.827] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[23Dec2024 23:09:52.550] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[23Dec2024 23:09:52.570] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[23Dec2024 23:09:52.590] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[23Dec2024 23:09:52.610] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[23Dec2024 23:09:52.654] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[23Dec2024 23:09:52.675] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[23Dec2024 23:09:52.696] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[23Dec2024 23:09:52.717] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[23Dec2024 23:09:55.072] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[23Dec2024 23:09:55.103] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[23Dec2024 23:09:55.637] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[23Dec2024 23:09:55.660] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[23Dec2024 23:09:55.691] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[23Dec2024 23:09:57.165] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[23Dec2024 23:09:57.320] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[23Dec2024 23:09:59.792] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[23Dec2024 23:09:59.795] [Worker-Main-7/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1166, y=-33, z=1859} at Sarcophagus with:graveyard:chests/crypt_loot
+[23Dec2024 23:11:47.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:11:47.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
