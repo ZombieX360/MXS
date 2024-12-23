@@ -2706,3 +2706,119 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 22:31:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Decaying Zombie
 [23Dec2024 22:31:42.286] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [23Dec2024 22:31:43.984] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Dec2024 22:33:20.588] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[23Dec2024 22:33:20.590] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[23Dec2024 22:33:20.591] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[23Dec2024 22:33:20.592] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[23Dec2024 22:33:20.592] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[23Dec2024 22:33:21.674] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[23Dec2024 22:33:21.674] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[23Dec2024 22:33:21.674] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[23Dec2024 22:33:21.674] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[23Dec2024 22:33:29.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[23Dec2024 22:33:43.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -6.646553328956088,-4.275070379408945,6.435636004211858
+[23Dec2024 22:33:43.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws moved too quickly! -8.401732812868204,5.333199993634224,2.1582818195715845
+[23Dec2024 22:34:01.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17314ms or 346 ticks behind
+[23Dec2024 22:34:22.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23Dec2024 22:34:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Plan "Boar"]
+[23Dec2024 22:34:41.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
+[23Dec2024 22:35:00.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[23Dec2024 22:35:10.332] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Dec2024 22:35:19.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[23Dec2024 22:35:34.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws blew up
+[23Dec2024 22:35:34.774] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Dec2024 22:35:38.248] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Dec2024 22:35:38.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[23Dec2024 22:35:58.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[23Dec2024 22:36:20.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
+[23Dec2024 22:36:39.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4204ms or 84 ticks behind
+[23Dec2024 22:36:51.006] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23Dec2024 22:36:51.011] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23Dec2024 22:36:51.156] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23Dec2024 22:36:51.157] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23Dec2024 22:36:59.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
+[23Dec2024 22:37:17.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[23Dec2024 22:37:28.138] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[23Dec2024 22:37:28.165] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1243}
+[23Dec2024 22:37:28.166] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1241}
+[23Dec2024 22:37:32.784] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-1198}
+[23Dec2024 22:37:32.835] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-1198}
+[23Dec2024 22:37:33.194] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
+[23Dec2024 22:37:33.541] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[23Dec2024 22:37:33.706] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[23Dec2024 22:37:33.707] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[23Dec2024 22:37:33.707] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[23Dec2024 22:37:33.711] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[23Dec2024 22:37:33.761] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[23Dec2024 22:37:33.762] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[23Dec2024 22:37:38.213] [Worker-Main-58/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Dec2024 22:37:40.558] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[23Dec2024 22:37:43.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Dec2024 22:37:43.174] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[23Dec2024 22:37:43.175] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[23Dec2024 22:37:48.217] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[23Dec2024 22:37:48.220] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[23Dec2024 22:37:48.297] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[23Dec2024 22:38:00.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[23Dec2024 22:38:20.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
+[23Dec2024 22:38:36.944] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Dec2024 22:38:37.059] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Dec2024 22:38:37.059] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Dec2024 22:38:37.060] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Dec2024 22:38:37.060] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[23Dec2024 22:38:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Pic-A-Nic Basket?]
+[23Dec2024 22:38:39.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
+[23Dec2024 22:38:41.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[23Dec2024 22:38:41.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[23Dec2024 22:38:41.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[23Dec2024 22:38:41.176] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[23Dec2024 22:38:45.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[23Dec2024 22:38:46.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[23Dec2024 22:38:55.654] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[23Dec2024 22:38:55.654] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[23Dec2024 22:38:55.655] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[23Dec2024 22:38:56.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws moved too quickly! -9.553807845878566,0.756759288177264,-3.194025968143251
+[23Dec2024 22:39:10.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16119ms or 322 ticks behind
+[23Dec2024 22:39:16.049] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[23Dec2024 22:39:16.051] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[23Dec2024 22:39:16.052] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[23Dec2024 22:39:16.052] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[23Dec2024 22:39:16.121] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[23Dec2024 22:39:16.123] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[23Dec2024 22:39:16.123] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[23Dec2024 22:39:16.123] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[23Dec2024 22:39:17.800] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Dec2024 22:39:17.805] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Dec2024 22:39:17.806] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Dec2024 22:39:17.807] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Dec2024 22:39:27.449] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[23Dec2024 22:39:28.681] [Worker-Main-58/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[23Dec2024 22:39:32.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6651ms or 133 ticks behind
+[23Dec2024 22:39:52.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5318ms or 106 ticks behind
+[23Dec2024 22:40:16.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8552ms or 171 ticks behind
+[23Dec2024 22:40:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Grizzly Bear
+[23Dec2024 22:40:28.480] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Dec2024 22:40:29.710] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Dec2024 22:40:37.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
+[23Dec2024 22:40:58.815] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Dec2024 22:41:50.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[23Dec2024 22:42:04.324] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[23Dec2024 22:42:05.048] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[23Dec2024 22:42:07.821] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[23Dec2024 22:42:07.825] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[23Dec2024 22:42:07.826] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[23Dec2024 22:42:07.827] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[23Dec2024 22:42:07.946] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[23Dec2024 22:42:28.030] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[23Dec2024 22:42:28.032] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[23Dec2024 22:42:28.032] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[23Dec2024 22:42:29.898] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[23Dec2024 22:42:29.917] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[23Dec2024 22:43:07.026] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[23Dec2024 22:43:07.148] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[23Dec2024 22:43:07.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[23Dec2024 22:43:07.181] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[23Dec2024 22:43:07.182] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[23Dec2024 22:43:10.704] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[23Dec2024 22:43:10.705] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[23Dec2024 22:43:10.705] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}

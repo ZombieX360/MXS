@@ -1602,9 +1602,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-23 22:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-23 22:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-23 22:37:10 +0000"
     },
     "done": true
   },
@@ -1614,9 +1626,27 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-12-23 22:37:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-23 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-23 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-23 22:37:10 +0000"
     },
     "done": true
   },
@@ -1629,6 +1659,12 @@
   "royalvariations:royal_variations_achievement": {
     "criteria": {
       "royal_variations_achievement": "2024-12-23 22:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-23 22:37:10 +0000"
     },
     "done": true
   },

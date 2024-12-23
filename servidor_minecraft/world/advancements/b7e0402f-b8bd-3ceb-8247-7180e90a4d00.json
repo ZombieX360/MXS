@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-23 22:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-23 22:18:23 +0000"
@@ -812,6 +818,12 @@
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2024-12-23 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-23 22:37:28 +0000"
     },
     "done": true
   },
@@ -1249,7 +1261,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-23 21:56:48 +0000"
+      "sweet_berries": "2024-12-23 22:35:17 +0000",
+      "cooked_beef": "2024-12-23 21:56:48 +0000",
+      "bread": "2024-12-23 22:37:59 +0000"
     },
     "done": false
   },
@@ -1274,6 +1288,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-23 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 22:31:18 +0000"
     },
     "done": true
   },
@@ -1594,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 22:37:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-23 21:42:42 +0000"
@@ -1759,6 +1785,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 21:46:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-23 22:39:50 +0000"
     },
     "done": true
   },
@@ -2564,6 +2596,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 22:37:35 +0000"
     },
     "done": true
   },
