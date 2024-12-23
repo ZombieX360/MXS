@@ -16487,3 +16487,72 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 21:50:14.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6739, l='ServerLevel[world]', x=182.50, y=73.00, z=190.50]
 [23Dec2024 21:51:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Acquire Hardware]
 [23Dec2024 21:52:23.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Stone Age]
+[23Dec2024 21:53:36.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:53:36.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:53:46.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Getting an Upgrade]
+[23Dec2024 21:53:59.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Dec2024 21:54:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Light Up The World!]
+[23Dec2024 21:54:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [What a Deal!]
+[23Dec2024 21:54:45.258] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[23Dec2024 21:54:45.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[23Dec2024 21:55:07.754] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[23Dec2024 21:55:10.708] [Worker-Main-7/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin2 is being run through DFU (hash 12b31365ec9be38387155c9a31846fc9cffeaa35f51bfa9f3ff91fc3ebe81cb7), this will cause launch time delays
+[23Dec2024 21:55:12.120] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
+[23Dec2024 21:55:13.010] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_2 is being run through DFU (hash 9d4e9f0575fb3ef5947214d3bcf696e678e6e05bdd3aa3d1ac0fb6ba0ea06fdf), this will cause launch time delays
+[23Dec2024 21:55:13.125] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_1 is being run through DFU (hash ab9d22b46309dd0f3b6ff50525a972668f7e1252d75c23c4c87f0e674083fadf), this will cause launch time delays
+[23Dec2024 21:55:13.190] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[23Dec2024 21:55:13.223] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_1 is being run through DFU (hash bf1fe6d05f4bdf12b33740f4faf9d25c701fe0a54a385776ecc0401c15fa8956), this will cause launch time delays
+[23Dec2024 21:55:13.302] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_4 is being run through DFU (hash b659f3c9823f98408b37a1c703f780d12cd034dd71c3c7eff72bed23d356958e), this will cause launch time delays
+[23Dec2024 21:55:13.377] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_3 is being run through DFU (hash 1fb1f3a011acba9a26f6e07662f34071686d7f8e873f64780ad8787d4b83da0a), this will cause launch time delays
+[23Dec2024 21:55:13.548] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_0 is being run through DFU (hash b96961558dd2b2c5b3897933d59d4b2b818d81c46ea1bca6855970c9e4c9e5f1), this will cause launch time delays
+[23Dec2024 21:55:13.594] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[23Dec2024 21:55:13.944] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_0 is being run through DFU (hash d9aa0b9cab38f10282a26f4439eb12ad329aff97e2b7a26cdb6a6bab87c88887), this will cause launch time delays
+[23Dec2024 21:55:14.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[23Dec2024 21:55:14.185] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
+[23Dec2024 21:55:14.537] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_2 is being run through DFU (hash b4e6d6f8adb4631444b85f90fc9b38f3655d064b45331df77d1c5382a9ca4066), this will cause launch time delays
+[23Dec2024 21:55:16.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Dec2024 21:55:17.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=64, z=291} BlockPos{x=304, y=62, z=290}
+[23Dec2024 21:55:20.117] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[23Dec2024 21:55:27.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Dec2024 21:55:29.136] [Worker-Main-7/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[23Dec2024 21:55:31.053] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[23Dec2024 21:55:31.205] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[23Dec2024 21:55:33.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[23Dec2024 21:55:38.324] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[23Dec2024 21:55:38.368] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[23Dec2024 21:55:38.407] [Worker-Main-7/DEBUG] [ModernFix/]: Structure mvs:well/well_lower is being run through DFU (hash 54b9c3d718e6a0a7addb5729dbdf662b3209ba713c9dda971cc79e599e3d0273), this will cause launch time delays
+[23Dec2024 21:55:57.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[23Dec2024 21:56:49.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8583, l='ServerLevel[world]', x=187.50, y=75.00, z=196.50]
+[23Dec2024 21:57:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Monster Hunter]
+[23Dec2024 21:57:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[23Dec2024 21:57:48.267] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:204, y:68, z:325, dim:minecraft:overworld]
+[23Dec2024 21:57:48.279] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Dec2024 21:57:53.048] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[23Dec2024 21:57:53.373] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Dec2024 21:58:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by a skull from Vouzhul the Darkmaster
+[23Dec2024 21:58:05.216] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:183, y:61, z:331, dim:minecraft:overworld]
+[23Dec2024 21:58:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Your First Grave]
+[23Dec2024 21:58:05.228] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Dec2024 21:58:06.537] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[23Dec2024 21:58:06.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [The Most Useful Key]
+[23Dec2024 21:58:06.760] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Dec2024 21:58:10.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Knowledge of Death]
+[23Dec2024 21:58:10.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [A Fast Comeback]
+[23Dec2024 21:58:17.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Knowledge of Death]
+[23Dec2024 21:58:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [A Fast Comeback]
+[23Dec2024 21:58:22.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Here They Come]
+[23Dec2024 21:58:38.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:58:38.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:58:46.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[23Dec2024 21:58:46.415] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:178, y:59, z:336, dim:minecraft:overworld]
+[23Dec2024 21:58:46.418] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Dec2024 21:58:47.520] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[23Dec2024 21:58:47.590] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Dec2024 21:58:51.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9417, l='ServerLevel[world]', x=184.50, y=73.00, z=190.50]
+[23Dec2024 21:59:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Ambush]
+[23Dec2024 21:59:00.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/1633, l='ServerLevel[world]', x=174.58, y=62.48, z=352.30] died: Vouzhul the Darkmaster was slain by ZingyMonk719952
+[23Dec2024 22:00:44.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[23Dec2024 22:01:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Sweet Dreams]
+[23Dec2024 22:01:27.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Dec2024 22:02:03.085] [Worker-Main-8/DEBUG] [ModernFix/]: Structure watching:leafless_grove/oak_birch/grove1 is being run through DFU (hash 14611ca03b12e2ea8afd41f60f56485f5a4d1cf5c7d57478ff4ae7a59f2739e9), this will cause launch time delays
+[23Dec2024 22:02:09.988] [Worker-Main-7/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond1 is being run through DFU (hash 6a2dbffb06fc76ec845da81db8e757ac0e1c618bfade3acb67bcc83aef9830ee), this will cause launch time delays
