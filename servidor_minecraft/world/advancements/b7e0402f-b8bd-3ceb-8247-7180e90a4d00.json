@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2024-12-23 22:16:42 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2024-12-23 22:53:30 +0000"
@@ -454,6 +466,12 @@
       "has_any_ingredient": "2024-12-23 21:56:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-23 21:56:11 +0000"
@@ -604,6 +628,12 @@
       "has_sweet_berries": "2024-12-23 22:35:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -887,6 +917,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-23 21:42:43 +0000"
@@ -965,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-23 23:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-23 22:54:57 +0000"
@@ -1031,6 +1073,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-23 22:16:43 +0000"
@@ -1078,6 +1126,12 @@
       "has_allium": "2024-12-23 22:51:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
@@ -1168,6 +1222,12 @@
       "has_cobbled_deepslate": "2024-12-23 21:46:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1615,6 +1675,12 @@
       "has_fillet_knife": "2024-12-23 21:33:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "create_dd:recipes/misc/crafting/coal_from_coal_piece": {
     "criteria": {
@@ -2329,6 +2395,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 21:46:01 +0000"
@@ -2517,6 +2589,12 @@
       "loot_bosses_a": "2024-12-23 21:33:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 23:30:46 +0000"
+    },
+    "done": false
   },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
