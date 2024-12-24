@@ -1894,3 +1894,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [24Dec2024 13:52:21.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [24Dec2024 13:58:14.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Isn't It Iron Pick]
 [24Dec2024 14:01:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [False Water]
+[24Dec2024 14:03:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Skeleton Thrasher
+[24Dec2024 14:03:57.382] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Dec2024 14:03:58.917] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
