@@ -1892,3 +1892,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [24Dec2024 13:52:18.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [24Dec2024 13:52:21.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [24Dec2024 13:52:21.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[24Dec2024 13:58:14.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Isn't It Iron Pick]
+[24Dec2024 14:01:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [False Water]
