@@ -375,8 +375,10 @@
     "criteria": {
       "field": "2024-12-23 22:18:48 +0000",
       "coniferous_forest": "2024-12-23 21:49:35 +0000",
+      "spider_nest": "2024-12-24 23:13:16 +0000",
       "seasonal_forest": "2024-12-23 21:55:49 +0000",
       "fir_clearing": "2024-12-23 22:03:36 +0000",
+      "prairie": "2024-12-24 23:08:42 +0000",
       "snowy_fir_clearing": "2024-12-23 22:05:05 +0000",
       "gravel_beach": "2024-12-23 22:02:18 +0000",
       "ominous_woods": "2024-12-23 22:39:00 +0000"
@@ -742,6 +744,7 @@
       "minecraft:skeleton": "2024-12-23 21:59:08 +0000",
       "minecraft:spider": "2024-12-23 22:03:14 +0000",
       "minecraft:husk": "2024-12-23 21:58:31 +0000",
+      "minecraft:cave_spider": "2024-12-24 23:14:34 +0000",
       "minecraft:stray": "2024-12-23 21:57:39 +0000",
       "minecraft:zombie": "2024-12-23 21:58:25 +0000"
     },
@@ -1068,6 +1071,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-23 22:22:32 +0000",
+      "cooked_mutton": "2024-12-24 23:10:52 +0000",
       "sweet_berries": "2024-12-23 22:04:48 +0000",
       "cooked_chicken": "2024-12-23 22:32:30 +0000"
     },
@@ -2111,6 +2115,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2024-12-24 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-24 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-24 22:58:29 +0000"
@@ -2129,6 +2175,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-24 23:11:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-24 23:15:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-24 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-24 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-24 23:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 23:10:16 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/iron_backtank": {
     "criteria": {
       "has_backtank": "2024-12-24 23:05:40 +0000"
@@ -2138,6 +2244,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2024-12-24 23:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-24 23:16:06 +0000"
     },
     "done": true
   },
