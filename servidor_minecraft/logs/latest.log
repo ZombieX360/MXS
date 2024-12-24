@@ -1837,3 +1837,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 23:13:53.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [24Dec2024 23:14:34.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6047, l='ServerLevel[world]', x=369.50, y=94.00, z=768.96] died, message: 'Unemployed suffocated in a wall'
 [24Dec2024 23:17:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Alex's Mobs]
+[24Dec2024 23:17:56.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[24Dec2024 23:18:15.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4041ms or 80 ticks behind
+[24Dec2024 23:18:37.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[24Dec2024 23:18:59.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[24Dec2024 23:18:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[24Dec2024 23:19:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Not Today, Thank You]
+[24Dec2024 23:20:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Fatty Demon]
+[24Dec2024 23:20:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Rotten King]
+[24Dec2024 23:20:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Ashes 'n Bones]
+[24Dec2024 23:22:16.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[24Dec2024 23:22:16.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[24Dec2024 23:23:38.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Dec2024 23:25:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Dread Hound
+[24Dec2024 23:25:07.508] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[24Dec2024 23:25:09.002] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[24Dec2024 23:25:51.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133182, l='ServerLevel[world]', x=429.79, y=68.00, z=764.27] died, message: 'Unemployed was struck down by Legioner'
+[24Dec2024 23:27:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [A Strange Grave Dust]
+[24Dec2024 23:28:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Convergent Evolution...]
