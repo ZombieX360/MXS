@@ -1897,3 +1897,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [24Dec2024 14:03:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Skeleton Thrasher
 [24Dec2024 14:03:57.382] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [24Dec2024 14:03:58.917] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[24Dec2024 14:14:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Wind Darkening]
+[24Dec2024 14:18:42.311] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[24Dec2024 14:18:47.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[24Dec2024 14:20:10.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[24Dec2024 14:22:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [A Seedy Place]
