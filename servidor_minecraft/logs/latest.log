@@ -1887,3 +1887,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 23:41:52.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
 [24Dec2024 23:41:52.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [24Dec2024 23:41:52.077] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[24Dec2024 23:55:26.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[24Dec2024 23:55:26.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[24Dec2024 23:55:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Husk
+[24Dec2024 23:55:28.107] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[24Dec2024 23:55:30.873] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[24Dec2024 23:56:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Chain Death]
+[24Dec2024 23:56:10.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[24Dec2024 23:56:10.526] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[24Dec2024 23:56:12.031] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[24Dec2024 23:57:27.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[24Dec2024 23:57:40.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]

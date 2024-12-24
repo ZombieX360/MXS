@@ -16943,3 +16943,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 23:47:25.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/168893, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
 [24Dec2024 23:47:25.687] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/168893, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
 [24Dec2024 23:47:25.783] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/168893, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[24Dec2024 23:52:25.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:52:25.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:52:25.866] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/173047, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[24Dec2024 23:52:25.866] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/173047, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[24Dec2024 23:52:26.246] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/173047, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[24Dec2024 23:55:26.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[24Dec2024 23:55:26.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[24Dec2024 23:55:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Husk
+[24Dec2024 23:55:28.099] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:613, y:100, z:565, dim:minecraft:overworld]
+[24Dec2024 23:55:28.107] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[24Dec2024 23:55:30.285] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[24Dec2024 23:55:30.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Dec2024 23:55:30.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_taiga
+[24Dec2024 23:55:30.873] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[24Dec2024 23:55:39.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[24Dec2024 23:55:39.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[24Dec2024 23:55:39.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[24Dec2024 23:55:39.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[24Dec2024 23:55:39.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[24Dec2024 23:55:39.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[24Dec2024 23:56:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Chain Death]
+[24Dec2024 23:56:10.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[24Dec2024 23:56:10.520] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:638, y:78, z:598, dim:minecraft:overworld]
+[24Dec2024 23:56:10.526] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[24Dec2024 23:56:11.940] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[24Dec2024 23:56:12.031] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[24Dec2024 23:56:15.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[24Dec2024 23:56:16.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:16.357] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.342] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:39.343] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[24Dec2024 23:56:59.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/floating_islands
+[24Dec2024 23:57:04.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[24Dec2024 23:57:25.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:57:25.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:57:26.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/178574, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[24Dec2024 23:57:26.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/178574, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[24Dec2024 23:57:26.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/178574, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[24Dec2024 23:57:26.418] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/180045, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[24Dec2024 23:57:26.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/180045, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[24Dec2024 23:57:26.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[24Dec2024 23:57:26.683] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/180045, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[24Dec2024 23:57:27.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[24Dec2024 23:57:40.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
