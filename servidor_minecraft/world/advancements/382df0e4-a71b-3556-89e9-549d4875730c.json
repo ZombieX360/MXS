@@ -377,6 +377,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2024-12-24 23:57:41 +0000",
+      "erupting_inferno": "2024-12-25 18:35:54 +0000",
       "highland": "2024-12-25 00:10:16 +0000",
       "maple_woods": "2024-12-24 23:57:59 +0000",
       "field": "2024-12-23 22:18:48 +0000",
@@ -4404,6 +4405,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 18:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
@@ -4479,6 +4486,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-25 18:37:06 +0000"
     },
     "done": true
   },
@@ -4737,6 +4750,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-25 18:41:55 +0000"
     },
     "done": true
   },

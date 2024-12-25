@@ -12704,3 +12704,9 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 18:33:29.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [25Dec2024 18:33:35.651] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [25Dec2024 18:35:42.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[25Dec2024 18:35:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Fatty Demon]
+[25Dec2024 18:35:59.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[25Dec2024 18:36:07.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Antiquity Shard]
+[25Dec2024 18:36:18.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
+[25Dec2024 18:38:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[25Dec2024 18:38:32.490] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.

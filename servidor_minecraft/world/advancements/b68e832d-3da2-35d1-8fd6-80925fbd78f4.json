@@ -2968,6 +2968,12 @@
     },
     "done": true
   },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2024-12-25 18:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-25 17:50:49 +0000"
@@ -3016,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-25 18:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-25 17:50:49 +0000"
@@ -3055,6 +3067,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-25 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-25 18:36:47 +0000"
     },
     "done": true
   },
@@ -3172,6 +3190,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-25 18:36:47 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_2": "2024-12-25 18:24:46 +0000",
@@ -3234,6 +3258,12 @@
     },
     "done": true
   },
+  "gnumus:antiquity_shard": {
+    "criteria": {
+      "antiquity_shard": "2024-12-25 18:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 18:02:03 +0000"
@@ -3261,6 +3291,12 @@
   "mcwstairs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2024-12-25 18:17:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-25 18:37:47 +0000"
     },
     "done": true
   },
@@ -3294,9 +3330,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-25 18:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-25 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-25 18:37:47 +0000"
     },
     "done": true
   },
@@ -3405,6 +3453,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-25 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-25 18:36:07 +0000"
     },
     "done": true
   },
@@ -3552,6 +3606,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-25 18:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-25 18:24:49 +0000"
@@ -3567,6 +3627,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-25 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-25 18:36:47 +0000"
     },
     "done": true
   },
@@ -3597,6 +3663,12 @@
   "adchimneys:recipes/building_blocks/large_brick_chimney": {
     "criteria": {
       "has_item": "2024-12-25 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-25 18:36:07 +0000"
     },
     "done": true
   },
@@ -3687,6 +3759,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-25 18:25:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-25 18:36:47 +0000"
     },
     "done": true
   },
