@@ -3082,6 +3082,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-25 19:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-25 18:24:49 +0000"
@@ -3495,6 +3501,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-25 18:36:07 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2024-12-25 19:14:48 +0000"
     },
     "done": true
   },

@@ -4859,6 +4859,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-25 19:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-25 18:20:56 +0000"

@@ -12739,3 +12739,21 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 19:04:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Ferrous Wroughtnaut
 [25Dec2024 19:04:34.761] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [25Dec2024 19:04:36.012] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 19:06:59.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Dec2024 19:07:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[25Dec2024 19:07:13.683] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 19:07:15.393] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 19:07:17.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[25Dec2024 19:14:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Deceived Hopes]
+[25Dec2024 19:14:47.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Diamond Termite
+[25Dec2024 19:14:47.230] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 19:14:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Best Friends Forever]
+[25Dec2024 19:14:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [You da Bomby]
+[25Dec2024 19:14:48.772] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 19:23:11.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[25Dec2024 19:23:48.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1050, y=-43, z=2041}
+[25Dec2024 19:23:59.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[25Dec2024 19:26:28.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Ladybug
+[25Dec2024 19:26:28.175] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 19:26:29.833] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 19:27:19.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137744, l='ServerLevel[world]', x=1037.50, y=79.00, z=1920.50]
