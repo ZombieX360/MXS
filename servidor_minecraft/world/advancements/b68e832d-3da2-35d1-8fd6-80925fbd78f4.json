@@ -2555,12 +2555,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-25 03:10:25 +0000"
-    },
-    "done": false
-  },
   "creategoggles:recipes/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2024-12-25 00:51:36 +0000"
