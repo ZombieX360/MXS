@@ -376,6 +376,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-25 18:51:52 +0000",
       "rocky_shrubland": "2024-12-24 23:57:41 +0000",
       "erupting_inferno": "2024-12-25 18:35:54 +0000",
       "highland": "2024-12-25 00:10:16 +0000",
@@ -1081,7 +1082,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-23 22:04:45 +0000"
+      "sweet_berries": "2024-12-23 22:04:45 +0000",
+      "potato": "2024-12-25 18:47:09 +0000",
+      "wheat": "2024-12-25 18:46:50 +0000"
     },
     "done": false
   },
@@ -4237,6 +4240,12 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2024-12-25 18:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-25 18:27:29 +0000"
@@ -4276,6 +4285,12 @@
   "ad_astra:recipes/misc/small_black_industrial_lamp": {
     "criteria": {
       "has_small_black_industrial_lamp": "2024-12-25 18:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-25 18:48:02 +0000"
     },
     "done": true
   },
@@ -4345,6 +4360,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-25 18:45:49 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-25 18:20:58 +0000"
@@ -4381,6 +4402,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-25 18:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
@@ -4408,6 +4435,12 @@
   "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
     "criteria": {
       "has_log": "2024-12-25 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2024-12-25 18:52:08 +0000"
     },
     "done": true
   },
@@ -4519,6 +4552,12 @@
     },
     "done": true
   },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2024-12-25 18:52:08 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-25 18:11:02 +0000"
@@ -4531,9 +4570,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 18:53:20 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/purple_asphalt_block": {
     "criteria": {
       "has_dyed_item": "2024-12-25 18:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 18:53:20 +0000"
     },
     "done": true
   },
@@ -4609,9 +4660,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-25 18:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-25 18:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-25 18:45:49 +0000"
     },
     "done": true
   },
@@ -4759,9 +4822,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-25 18:45:49 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/pink_asphalt_block": {
     "criteria": {
       "has_dyed_item": "2024-12-25 18:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-25 18:48:02 +0000"
     },
     "done": true
   },
@@ -4861,9 +4936,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-25 18:46:50 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-25 18:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-25 18:48:34 +0000"
     },
     "done": true
   },
@@ -4888,6 +4981,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-25 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/tools/wooden_paintbrush": {
+    "criteria": {
+      "has_item": "2024-12-25 18:45:49 +0000"
     },
     "done": true
   },
