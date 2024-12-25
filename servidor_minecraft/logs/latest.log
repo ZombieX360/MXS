@@ -12661,3 +12661,46 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 18:24:02.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/mobs/AccursedLordBoss$AccursedLordAnimations
 [25Dec2024 18:24:15.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4186ms or 83 ticks behind
 [25Dec2024 18:25:04.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[25Dec2024 18:25:32.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[25Dec2024 18:25:52.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[25Dec2024 18:25:57.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=463, y=29, z=1365}
+[25Dec2024 18:26:15.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[25Dec2024 18:27:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [A Terrible Fortress]
+[25Dec2024 18:27:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Into Fire]
+[25Dec2024 18:27:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was fireballed by Blaze
+[25Dec2024 18:27:29.833] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:27:31.595] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:27:36.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[25Dec2024 18:27:39.708] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:27:53.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was fireballed by Blaze
+[25Dec2024 18:27:53.234] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:27:54.519] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:27:57.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Dec2024 18:28:00.416] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:28:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Magic Writing]
+[25Dec2024 18:29:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was fireballed by Blaze
+[25Dec2024 18:29:30.325] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:29:31.812] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:29:37.744] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:30:04.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was fireballed by Blaze
+[25Dec2024 18:30:04.031] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:30:05.533] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:30:11.303] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:30:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Skeleton Thrasher
+[25Dec2024 18:30:26.303] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 18:30:27.609] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 18:30:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Wither Skeleton
+[25Dec2024 18:30:57.030] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:30:58.838] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:31:05.006] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:31:28.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was fireballed by Blaze
+[25Dec2024 18:31:28.278] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:31:29.858] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:31:35.985] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:32:41.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[25Dec2024 18:33:27.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[25Dec2024 18:33:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws burned to death
+[25Dec2024 18:33:27.678] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:33:29.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:33:35.651] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:35:42.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem

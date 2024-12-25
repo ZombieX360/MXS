@@ -751,9 +751,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-25 01:24:05 +0000",
+      "minecraft:blaze": "2024-12-25 18:27:29 +0000",
       "minecraft:skeleton": "2024-12-23 21:59:08 +0000",
+      "minecraft:magma_cube": "2024-12-25 18:31:23 +0000",
       "minecraft:spider": "2024-12-23 22:03:14 +0000",
+      "minecraft:zombified_piglin": "2024-12-25 18:23:32 +0000",
       "minecraft:witch": "2024-12-25 01:13:56 +0000",
+      "minecraft:wither_skeleton": "2024-12-25 18:30:45 +0000",
       "minecraft:husk": "2024-12-23 21:58:31 +0000",
       "minecraft:cave_spider": "2024-12-24 23:14:34 +0000",
       "minecraft:stray": "2024-12-23 21:57:39 +0000",
@@ -4214,6 +4218,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-25 18:23:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
@@ -4223,6 +4233,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-25 18:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-25 18:27:29 +0000"
     },
     "done": true
   },
@@ -4478,6 +4494,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-25 18:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 18:27:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-25 18:11:02 +0000"
@@ -4658,6 +4686,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-25 18:27:29 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/magenta_asphalt_block": {
     "criteria": {
       "has_dyed_item": "2024-12-25 18:11:16 +0000"
@@ -4673,6 +4707,12 @@
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-25 18:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-25 18:27:24 +0000"
     },
     "done": true
   },
@@ -4793,6 +4833,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 18:27:29 +0000"
     },
     "done": true
   },
