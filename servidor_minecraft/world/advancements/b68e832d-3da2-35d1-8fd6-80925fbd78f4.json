@@ -2555,6 +2555,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-25 03:10:25 +0000"
+    },
+    "done": false
+  },
   "creategoggles:recipes/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2024-12-25 00:51:36 +0000"
@@ -2594,6 +2600,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-25 00:51:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 03:04:36 +0000"
     },
     "done": true
   },
@@ -2660,6 +2672,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-25 03:08:06 +0000"
     },
     "done": true
   },
