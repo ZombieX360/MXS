@@ -12588,3 +12588,24 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 17:43:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Mutant Creeper
 [25Dec2024 17:43:10.994] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [25Dec2024 17:43:12.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 17:44:51.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[25Dec2024 17:45:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 fell from a high place
+[25Dec2024 17:45:19.631] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 17:45:21.034] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 17:50:15.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[25Dec2024 17:51:05.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[25Dec2024 17:52:30.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.159.190.147:60227] logged in with entity id 16097 at (1075.6699955529907, 106.0, 1519.300000011921)
+[25Dec2024 17:52:30.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[25Dec2024 17:52:30.984] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[25Dec2024 17:52:30.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[25Dec2024 17:52:30.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[25Dec2024 17:52:30.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[25Dec2024 17:52:31.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[25Dec2024 17:52:31.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[25Dec2024 17:52:31.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[25Dec2024 17:52:31.150] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[25Dec2024 17:52:34.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[25Dec2024 17:52:44.624] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 17:53:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[25Dec2024 17:53:25.210] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 17:53:26.583] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
