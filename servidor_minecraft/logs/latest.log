@@ -1941,3 +1941,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 03:30:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 hit the ground too hard
 [25Dec2024 03:30:33.010] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [25Dec2024 03:30:34.832] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 03:36:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Zombie
+[25Dec2024 03:36:36.492] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 03:36:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Equestrian
+[25Dec2024 03:36:49.550] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 03:36:51.377] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 03:40:07.342] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 03:41:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Take Aim]

@@ -2555,6 +2555,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2024-12-25 03:40:34 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2024-12-25 00:51:36 +0000"
@@ -2570,6 +2576,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-25 03:40:34 +0000"
     },
     "done": true
   },
@@ -2663,6 +2675,12 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2024-12-25 03:40:34 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_0": "2024-12-25 02:04:25 +0000"
@@ -2729,9 +2747,21 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2024-12-25 03:40:34 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:explosive_temper": {
     "criteria": {
       "explosive_temper_0": "2024-12-25 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2024-12-25 03:40:34 +0000"
     },
     "done": true
   },
