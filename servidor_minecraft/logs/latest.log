@@ -1881,3 +1881,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 23:18:27.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [25Dec2024 23:20:04.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [25Dec2024 23:24:25.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Crops of the Wild]
+[25Dec2024 23:48:03.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
