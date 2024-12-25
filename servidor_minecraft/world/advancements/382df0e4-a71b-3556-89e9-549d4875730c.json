@@ -373,11 +373,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2024-12-24 23:57:41 +0000",
+      "maple_woods": "2024-12-24 23:57:59 +0000",
       "field": "2024-12-23 22:18:48 +0000",
       "coniferous_forest": "2024-12-23 21:49:35 +0000",
       "spider_nest": "2024-12-24 23:13:16 +0000",
       "seasonal_forest": "2024-12-23 21:55:49 +0000",
       "fir_clearing": "2024-12-23 22:03:36 +0000",
+      "grassland": "2024-12-25 00:03:00 +0000",
       "prairie": "2024-12-24 23:08:42 +0000",
       "snowy_fir_clearing": "2024-12-23 22:05:05 +0000",
       "gravel_beach": "2024-12-23 22:02:18 +0000",
@@ -2208,6 +2211,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-24 22:58:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-25 00:04:25 +0000"
     },
     "done": true
   },
