@@ -1174,3 +1174,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 01:09:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws hit the ground too hard
 [25Dec2024 01:09:07.049] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [25Dec2024 01:09:08.836] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 01:13:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Ambush]
+[25Dec2024 01:18:33.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[25Dec2024 01:18:33.821] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 01:18:35.375] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
