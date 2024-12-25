@@ -3007,6 +3007,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-25 01:57:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-25 01:28:18 +0000"
