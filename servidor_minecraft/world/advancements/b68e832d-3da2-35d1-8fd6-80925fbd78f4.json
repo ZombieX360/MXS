@@ -2561,6 +2561,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-25 03:41:49 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2024-12-25 00:51:36 +0000"
@@ -2570,6 +2576,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-25 03:48:33 +0000"
     },
     "done": true
   },
@@ -2681,11 +2693,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 03:48:33 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_0": "2024-12-25 02:04:25 +0000"
     },
     "done": false
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-25 03:48:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
@@ -2726,6 +2750,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-25 01:00:13 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2024-12-25 03:48:33 +0000"
     },
     "done": true
   },

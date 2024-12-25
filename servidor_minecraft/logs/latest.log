@@ -1948,3 +1948,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 03:36:51.377] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [25Dec2024 03:40:07.342] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [25Dec2024 03:41:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Take Aim]
+[25Dec2024 03:48:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Zombie
+[25Dec2024 03:48:16.475] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 03:48:17.730] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 03:52:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Door Knight
+[25Dec2024 03:52:40.968] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 03:52:42.224] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 03:52:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[25Dec2024 03:52:42.826] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 03:52:44.626] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 03:52:55.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Dark Metallurgy]
