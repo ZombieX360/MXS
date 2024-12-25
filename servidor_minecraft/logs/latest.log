@@ -1592,3 +1592,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 02:04:36.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [25Dec2024 02:04:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Slugger
 [25Dec2024 02:04:38.004] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[25Dec2024 02:12:40.177] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[25Dec2024 02:20:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ACUA-Ws
+[25Dec2024 02:20:06.797] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 02:20:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Funeral Theft]
+[25Dec2024 02:21:51.081] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
