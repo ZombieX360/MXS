@@ -374,6 +374,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2024-12-24 23:57:41 +0000",
+      "highland": "2024-12-25 00:10:16 +0000",
       "maple_woods": "2024-12-24 23:57:59 +0000",
       "field": "2024-12-23 22:18:48 +0000",
       "coniferous_forest": "2024-12-23 21:49:35 +0000",
@@ -2163,6 +2164,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-24 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-25 00:09:45 +0000"
     },
     "done": true
   },
