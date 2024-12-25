@@ -9408,3 +9408,12 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [25Dec2024 04:07:39.300] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [25Dec2024 04:07:41.052] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [25Dec2024 04:08:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[25Dec2024 04:26:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 hit the ground too hard whilst trying to escape Nightmare Stalker
+[25Dec2024 04:26:12.148] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 04:26:13.461] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 04:28:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[25Dec2024 04:28:12.320] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 04:28:14.172] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 04:35:11.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[25Dec2024 04:35:11.954] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 04:35:13.646] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.

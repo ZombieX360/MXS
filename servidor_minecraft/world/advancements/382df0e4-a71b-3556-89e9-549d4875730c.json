@@ -757,7 +757,8 @@
       "minecraft:husk": "2024-12-23 21:58:31 +0000",
       "minecraft:cave_spider": "2024-12-24 23:14:34 +0000",
       "minecraft:stray": "2024-12-23 21:57:39 +0000",
-      "minecraft:zombie": "2024-12-23 21:58:25 +0000"
+      "minecraft:zombie": "2024-12-23 21:58:25 +0000",
+      "minecraft:zombie_villager": "2024-12-25 04:25:38 +0000"
     },
     "done": false
   },
@@ -3527,9 +3528,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 04:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
@@ -3539,9 +3564,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 04:17:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
@@ -3551,9 +3588,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-25 04:16:36 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
@@ -3584,6 +3645,12 @@
   "create_dd:recipes/create_dd.palettes/stone_pillar_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 04:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
@@ -3659,6 +3726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 04:17:56 +0000"
@@ -3674,6 +3747,18 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-25 04:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
@@ -3710,6 +3795,18 @@
   "create_dd:recipes/create_dd.palettes/cut_stone_stairs_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 04:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 04:29:29 +0000"
     },
     "done": true
   },
@@ -3788,6 +3885,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 04:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-25 04:29:27 +0000"
     },
     "done": true
   },
