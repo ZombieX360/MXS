@@ -14573,3 +14573,17 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 04:46:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
 [25Dec2024 04:46:08.879] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [25Dec2024 04:46:11.179] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 04:46:54.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[25Dec2024 04:46:54.303] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 04:46:56.000] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 04:47:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Slugger
+[25Dec2024 04:47:45.752] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 04:47:46.983] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 04:48:26.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[25Dec2024 04:49:09.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[25Dec2024 04:50:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Lifestealer
+[25Dec2024 04:50:52.429] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 04:50:55.006] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 04:51:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Cover Me with Diamonds]
+[25Dec2024 04:53:26.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[25Dec2024 04:53:26.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
