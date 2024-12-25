@@ -1178,3 +1178,27 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [25Dec2024 01:18:33.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
 [25Dec2024 01:18:33.821] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [25Dec2024 01:18:35.375] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 01:22:07.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[25Dec2024 01:22:07.068] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 01:23:24.304] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45722cde[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:47237) lost connection: Disconnected
+[25Dec2024 01:24:23.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Diamonds!]
+[25Dec2024 01:24:26.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws blew up
+[25Dec2024 01:24:26.601] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 01:24:28.194] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 01:26:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was killed by Witch using magic
+[25Dec2024 01:26:06.840] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 01:26:08.009] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 01:26:48.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:57301] logged in with entity id 274005 at (842.2449558760538, 74.0, 1660.606482222245)
+[25Dec2024 01:26:48.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[25Dec2024 01:26:48.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[25Dec2024 01:26:48.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[25Dec2024 01:26:48.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[25Dec2024 01:26:48.343] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[25Dec2024 01:26:48.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[25Dec2024 01:26:48.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[25Dec2024 01:26:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[25Dec2024 01:26:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Mysterious Gift]
+[25Dec2024 01:26:48.500] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[25Dec2024 01:26:55.657] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[25Dec2024 01:26:55.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7373ms or 147 ticks behind
+[25Dec2024 01:26:55.824] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
