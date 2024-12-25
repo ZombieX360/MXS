@@ -27174,3 +27174,232 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 18:14:36.101] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
 [25Dec2024 18:14:36.101] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
 [25Dec2024 18:15:03.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[25Dec2024 18:15:45.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[25Dec2024 18:15:45.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[25Dec2024 18:15:45.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/vindicator
+[25Dec2024 18:15:45.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure3
+[25Dec2024 18:15:45.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[25Dec2024 18:15:45.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters3
+[25Dec2024 18:16:12.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[25Dec2024 18:16:12.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[25Dec2024 18:16:12.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[25Dec2024 18:16:12.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[25Dec2024 18:16:15.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[25Dec2024 18:16:23.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:16:23.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 18:16:24.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68645, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:24.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68645, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:24.982] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68645, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:25.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68782, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:25.289] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68782, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:26.786] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68782, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:27.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68811, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:27.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68811, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:27.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68811, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:27.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68824, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:27.243] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68824, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:27.459] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68824, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:27.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68836, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:27.571] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68836, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:28.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68836, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:28.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68857, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:28.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68857, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:28.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68857, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:28.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68861, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:28.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68861, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:28.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68861, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:28.580] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68867, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:28.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68867, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:28.680] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68867, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:28.720] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/68874, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:16:28.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/68874, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:16:28.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/68874, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:16:29.006] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[25Dec2024 18:16:29.040] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[25Dec2024 18:16:29.071] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[25Dec2024 18:16:29.095] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[25Dec2024 18:16:30.299] [Worker-Main-51/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[25Dec2024 18:16:31.417] [Worker-Main-51/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[25Dec2024 18:16:37.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6411ms or 128 ticks behind
+[25Dec2024 18:16:39.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[25Dec2024 18:16:39.592] [Worker-Main-51/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=504, y=-36, z=1694} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 18:16:43.154] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[25Dec2024 18:16:51.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=498, y=-12, z=1710}
+[25Dec2024 18:16:56.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4894ms or 97 ticks behind
+[25Dec2024 18:16:59.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=483, y=-11, z=1723}
+[25Dec2024 18:16:59.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=488, y=28, z=1714}
+[25Dec2024 18:17:00.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=488, y=-33, z=1790}
+[25Dec2024 18:17:08.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=477, y=-33, z=1689}
+[25Dec2024 18:17:12.531] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[25Dec2024 18:17:16.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[25Dec2024 18:17:25.304] [Worker-Main-51/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[25Dec2024 18:17:32.358] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=441, y=-9, z=1558}
+[25Dec2024 18:17:34.971] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.971] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.971] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.971] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.971] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.972] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.972] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.972] [Worker-Main-51/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:17:34.973] [Worker-Main-51/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=491, y=-11, z=1425} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 18:17:35.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4654ms or 93 ticks behind
+[25Dec2024 18:17:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Corpse Fly
+[25Dec2024 18:17:43.221] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:1042, y:109, z:1652, dim:minecraft:overworld]
+[25Dec2024 18:17:43.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['ACUA-Ws'/16097, l='ServerLevel[world]', x=1042.02, y=109.00, z=1652.25]
+[25Dec2024 18:17:43.231] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:17:44.726] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[25Dec2024 18:17:44.883] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:17:47.832] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/16097, l='ServerLevel[world]', x=1044.70, y=109.00, z=1652.36], dimensionLocationPath overworld
+[25Dec2024 18:17:47.833] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/16097, l='ServerLevel[world]', x=1044.70, y=109.00, z=1652.36] in list []
+[25Dec2024 18:18:07.625] [Worker-Main-51/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[25Dec2024 18:18:12.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Dec2024 18:18:18.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=438, y=32, z=1458}
+[25Dec2024 18:18:22.977] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:22.978] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[25Dec2024 18:18:24.159] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=449, y=-25, z=1431}
+[25Dec2024 18:18:31.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Dec2024 18:18:53.002] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:gnumus_ruins
+[25Dec2024 18:18:58.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[25Dec2024 18:18:58.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[25Dec2024 18:18:58.770] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[25Dec2024 18:19:16.954] [Worker-Main-4/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:gauntlet_arena/base is being run through DFU (hash 0d871524445703c1a906ae6c3ac7e4ca8da8c54137a1bee15180b207637d0493), this will cause launch time delays
+[25Dec2024 18:19:18.792] [Worker-Main-4/DEBUG] [mixin/]: Mixing NetherFortressPiecesMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces
+[25Dec2024 18:19:19.702] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:the_lab is being run through DFU (hash 2e3977b1ffc2b25c55c24d8a0b24d536b3d448183eb343f42ff602c6d589306f), this will cause launch time delays
+[25Dec2024 18:19:21.362] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower1 is being run through DFU (hash 2208c94b4b15c2a0720dc90c1f2e920dd3d344e4dbe8f940a88e2ac97662a840), this will cause launch time delays
+[25Dec2024 18:19:21.566] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_kitchen is being run through DFU (hash f1d62c2d1076ae02f69209f37706f460b229eaf7e609fb478641d720392c5177), this will cause launch time delays
+[25Dec2024 18:19:21.784] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:cvill/towncenter4 is being run through DFU (hash 8c40e6518ed0efe21bc002d2cf6d1114b1aa9970d7ef9702932af879351f95b4), this will cause launch time delays
+[25Dec2024 18:19:22.080] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:arena is being run through DFU (hash 1550bd700a53f9f9d1f717ccc62cda785156b5c4a97ee1c37477c1c3058cc146), this will cause launch time delays
+[25Dec2024 18:19:22.508] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:pipeline/start1 is being run through DFU (hash a2d5b08ebe06b96a48864f29a9de461ffa5ef810078aca656faab94b279cd007), this will cause launch time delays
+[25Dec2024 18:19:26.318] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor is being run through DFU (hash 9171fb6e499dd9b1ad2761a65361f03a27f131facda5327c4dccc3a7c6c2730b), this will cause launch time delays
+[25Dec2024 18:19:26.538] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l1 is being run through DFU (hash 82e70413a739802bb5e489ee41944b1f39c038f79c210c58c9936c63bf5e96ec), this will cause launch time delays
+[25Dec2024 18:19:27.626] [Worker-Main-51/DEBUG] [ModernFix/]: Structure stalwart_dungeons:keeping_castle_spawn is being run through DFU (hash 77243077166184eaf3faf46f34d7534abc6cab5de30b6744dd9f5288219facfc), this will cause launch time delays
+[25Dec2024 18:19:27.790] [Worker-Main-51/DEBUG] [ModernFix/]: Structure mvs:other_decoration/crimson_enchanting_table is being run through DFU (hash 1d80d04b1396ddc0382afc3cf15c84e54887b098b319cbfa29b6e7ed9af591a3), this will cause launch time delays
+[25Dec2024 18:19:34.164] [Worker-Main-51/DEBUG] [ModernFix/]: Structure soulsweapons:decaying_kingdom_altarnate is being run through DFU (hash 8bad978c50d7f88a0c629e09119aded0f6a6d2ddc6ebfa7b915d5e90983f58b7), this will cause launch time delays
+[25Dec2024 18:19:36.064] [Worker-Main-51/DEBUG] [ModernFix/]: Structure mvs:other_decoration/nether_devil is being run through DFU (hash 4167f65dd4ecf372e88a0b650da93881ed08dc5b2c699fe20afd75842e48b21c), this will cause launch time delays
+[25Dec2024 18:19:37.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Incendium]
+[25Dec2024 18:19:37.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [We Need to Go Deeper]
+[25Dec2024 18:19:37.887] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_east is being run through DFU (hash cdd7521508c675e2e0b308b3d6dd47c07fc9539364b573fecaee113d54aa6f50), this will cause launch time delays
+[25Dec2024 18:19:38.056] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_top1 is being run through DFU (hash 0d3ea5aa41cd1cbcb771c98c0f7c698b41d244404db361ece05e6afda39057ff), this will cause launch time delays
+[25Dec2024 18:19:38.170] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_south is being run through DFU (hash aa0fc870c0c8e10973cdf3d870ca2e6e976819c4179136c28818deec5b150eaa), this will cause launch time delays
+[25Dec2024 18:19:38.596] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_last is being run through DFU (hash 6e9352998c64dd8417fc3ac43b2987609b8e142070c04d9cd83058827c445d77), this will cause launch time delays
+[25Dec2024 18:19:38.900] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_bottom is being run through DFU (hash 32bf97fe3a0d44a25522828f3942bda070496340101e1186fba5e69aa6bb2c89), this will cause launch time delays
+[25Dec2024 18:19:39.504] [Worker-Main-51/DEBUG] [ModernFix/]: Structure creature_compendium:bastion/netherite_forge is being run through DFU (hash 346f05bb8bd4b77f6630dd0d1ab1c3ffa8c0adfe5d59fddd3fb8542bca0391fc), this will cause launch time delays
+[25Dec2024 18:19:54.055] [Worker-Main-51/DEBUG] [ModernFix/]: Structure stalwart_dungeons:awful_dungeon_spawn is being run through DFU (hash cc90fe7a581172f7938d66889ef9e554344bbe24f26c25d7a8803eaa249cef63), this will cause launch time delays
+[25Dec2024 18:20:00.009] [Worker-Main-51/DEBUG] [ModernFix/]: Structure mvs:well/wells/nether_well is being run through DFU (hash c3128b88b38cf1707cfac4b83559fb9a6f02be7ed4ea479d27cd9cfaf228c555), this will cause launch time delays
+[25Dec2024 18:20:05.448] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 18:20:05.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! 9.580434950233894,3.0,-1.006989676988951
+[25Dec2024 18:20:05.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49268ms or 985 ticks behind
+[25Dec2024 18:20:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Strange Biomes]
+[25Dec2024 18:20:38.999] [Worker-Main-52/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=72, y=58, z=309} at Chest with:minecraft:chests/nether_bridge
+[25Dec2024 18:20:54.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Dec2024 18:21:09.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[25Dec2024 18:21:12.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[25Dec2024 18:21:13.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[25Dec2024 18:21:13.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[25Dec2024 18:21:13.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[25Dec2024 18:21:13.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[25Dec2024 18:21:13.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[25Dec2024 18:21:13.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[25Dec2024 18:21:13.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[25Dec2024 18:21:13.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[25Dec2024 18:21:13.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[25Dec2024 18:21:13.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[25Dec2024 18:21:17.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[25Dec2024 18:21:19.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[25Dec2024 18:21:32.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4423ms or 88 ticks behind
+[25Dec2024 18:21:40.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[25Dec2024 18:21:40.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[25Dec2024 18:21:40.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[25Dec2024 18:21:41.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[25Dec2024 18:21:41.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[25Dec2024 18:21:41.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[25Dec2024 18:21:41.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[25Dec2024 18:21:41.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[25Dec2024 18:21:41.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[25Dec2024 18:21:41.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[25Dec2024 18:21:41.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[25Dec2024 18:21:41.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[25Dec2024 18:21:41.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[25Dec2024 18:21:41.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[25Dec2024 18:21:41.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[25Dec2024 18:21:41.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[25Dec2024 18:21:41.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[25Dec2024 18:21:41.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[25Dec2024 18:21:41.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[25Dec2024 18:21:41.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[25Dec2024 18:21:41.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[25Dec2024 18:21:41.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[25Dec2024 18:21:41.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[25Dec2024 18:21:41.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[25Dec2024 18:21:41.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[25Dec2024 18:21:41.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[25Dec2024 18:21:41.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[25Dec2024 18:21:41.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[25Dec2024 18:21:41.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[25Dec2024 18:21:41.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[25Dec2024 18:21:41.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[25Dec2024 18:21:41.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[25Dec2024 18:21:41.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[25Dec2024 18:21:41.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[25Dec2024 18:21:41.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[25Dec2024 18:21:41.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[25Dec2024 18:21:41.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[25Dec2024 18:21:41.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[25Dec2024 18:21:41.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[25Dec2024 18:21:41.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[25Dec2024 18:21:41.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[25Dec2024 18:21:41.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[25Dec2024 18:21:41.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[25Dec2024 18:21:54.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7404ms or 148 ticks behind
+[25Dec2024 18:22:15.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5857ms or 117 ticks behind
+[25Dec2024 18:22:20.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[25Dec2024 18:22:21.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[25Dec2024 18:22:21.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[25Dec2024 18:22:21.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[25Dec2024 18:22:21.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[25Dec2024 18:22:21.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[25Dec2024 18:22:21.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[25Dec2024 18:22:21.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[25Dec2024 18:22:21.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[25Dec2024 18:22:21.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[25Dec2024 18:22:21.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[25Dec2024 18:22:21.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[25Dec2024 18:22:21.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[25Dec2024 18:22:21.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[25Dec2024 18:22:21.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[25Dec2024 18:22:21.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[25Dec2024 18:22:21.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[25Dec2024 18:22:36.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6215ms or 124 ticks behind
+[25Dec2024 18:22:56.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
+[25Dec2024 18:23:11.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:23:11.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 18:23:11.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/72603, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:23:11.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/72603, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:23:11.953] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/72603, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:23:12.009] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/72648, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:23:12.009] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/72648, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:23:12.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/72648, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:23:12.142] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/72693, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[25Dec2024 18:23:12.142] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/72693, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ee1]
+[25Dec2024 18:23:13.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/72693, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[25Dec2024 18:23:13.251] [Worker-Main-52/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=267, y=52, z=453} at Chest with:minecraft:chests/nether_bridge
+[25Dec2024 18:23:15.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[25Dec2024 18:23:20.331] [Worker-Main-52/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=326, y=53, z=350} at Chest with:minecraft:chests/nether_bridge
+[25Dec2024 18:23:38.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[25Dec2024 18:23:48.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=919, y=-24, z=884}
+[25Dec2024 18:23:56.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[25Dec2024 18:24:02.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/mobs/AccursedLordBoss$AccursedLordAnimations
+[25Dec2024 18:24:02.996] [Worker-Main-51/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower2 is being run through DFU (hash a1b0371a224d03bec7257454265aa947949ba2deca973a436a8c99f18759bd5e), this will cause launch time delays
+[25Dec2024 18:24:15.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4186ms or 83 ticks behind
+[25Dec2024 18:25:04.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[25Dec2024 18:25:09.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/73509, l='ServerLevel[world]', x=126.68, y=87.50, z=260.66], dimensionLocationPath the_nether
+[25Dec2024 18:25:09.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Torch'/73509, l='ServerLevel[world]', x=126.68, y=87.50, z=260.66] is dead or in a banned dimension the_nether
+[25Dec2024 18:25:09.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/16097, l='ServerLevel[world]', x=126.53, y=86.00, z=260.62], dimensionLocationPath the_nether
+[25Dec2024 18:25:09.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['ACUA-Ws'/16097, l='ServerLevel[world]', x=126.53, y=86.00, z=260.62] is dead or in a banned dimension the_nether

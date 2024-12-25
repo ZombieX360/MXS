@@ -354,13 +354,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-23 22:08:12 +0000",
+      "minecraft:birch_forest": "2024-12-25 18:16:03 +0000",
       "minecraft:beach": "2024-12-23 21:07:34 +0000",
+      "minecraft:dark_forest": "2024-12-25 18:16:28 +0000",
       "minecraft:river": "2024-12-23 21:58:52 +0000",
       "minecraft:snowy_taiga": "2024-12-23 22:09:45 +0000",
       "minecraft:cold_ocean": "2024-12-23 21:48:10 +0000",
       "minecraft:lush_caves": "2024-12-24 13:50:59 +0000",
       "minecraft:frozen_ocean": "2024-12-23 22:09:14 +0000",
       "minecraft:snowy_beach": "2024-12-23 22:06:51 +0000",
+      "minecraft:windswept_savanna": "2024-12-25 18:17:06 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-23 21:38:52 +0000",
       "minecraft:plains": "2024-12-23 21:08:40 +0000"
     },
@@ -3138,6 +3141,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-25 18:17:51 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_stone_brick_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 18:02:03 +0000"
@@ -3189,6 +3198,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-25 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-25 18:17:51 +0000"
     },
     "done": true
   },
@@ -3324,15 +3339,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-25 18:17:51 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2024-12-25 18:02:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 18:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-25 18:15:25 +0000"
     },
     "done": true
   },
