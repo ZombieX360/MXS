@@ -1094,6 +1094,7 @@
       "cooked_mutton": "2024-12-24 23:10:52 +0000",
       "sweet_berries": "2024-12-23 22:04:48 +0000",
       "beef": "2024-12-25 01:05:23 +0000",
+      "baked_potato": "2024-12-25 18:55:39 +0000",
       "apple": "2024-12-25 02:33:55 +0000",
       "bread": "2024-12-25 02:45:59 +0000",
       "rotten_flesh": "2024-12-25 18:16:33 +0000",
@@ -4783,6 +4784,12 @@
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-25 18:20:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-25 18:55:05 +0000"
     },
     "done": true
   },
