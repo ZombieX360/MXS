@@ -2633,12 +2633,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-25 01:37:34 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2024-12-25 01:26:31 +0000"
