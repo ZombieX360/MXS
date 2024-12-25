@@ -2554,6 +2554,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-25 00:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
@@ -2581,6 +2587,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-25 00:51:35 +0000"
     },
     "done": true
   },

@@ -1148,3 +1148,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "}MN9u)-&+/,0/516.ip.gl.ply.gg"
 ]
+[25Dec2024 00:51:35.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Suit Up]
+[25Dec2024 00:53:01.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws was kicked for floating too long!
+[25Dec2024 00:53:01.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Flying is not enabled on this server
+[25Dec2024 00:53:01.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[25Dec2024 00:53:01.848] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 00:54:14.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.159.190.147:40255] logged in with entity id 224767 at (1056.7668156461398, 103.92159999847412, 1654.6200048767294)
+[25Dec2024 00:54:14.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[25Dec2024 00:54:14.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[25Dec2024 00:54:14.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[25Dec2024 00:54:14.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[25Dec2024 00:54:14.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[25Dec2024 00:54:14.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[25Dec2024 00:54:14.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[25Dec2024 00:54:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[25Dec2024 00:54:14.466] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[25Dec2024 00:55:11.212] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[25Dec2024 00:57:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Royal Zombie
+[25Dec2024 00:57:35.747] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[25Dec2024 00:57:38.113] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[25Dec2024 01:00:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Life turned out to be a comedy]
