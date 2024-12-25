@@ -2650,6 +2650,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2024-12-25 02:04:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-25 00:09:21 +0000"
@@ -2701,6 +2707,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2024-12-25 02:04:33 +0000"
     },
     "done": true
   },

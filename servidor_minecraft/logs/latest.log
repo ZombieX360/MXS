@@ -1588,3 +1588,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[25Dec2024 02:04:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Explosive Temper]
+[25Dec2024 02:04:36.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25Dec2024 02:04:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Slugger
+[25Dec2024 02:04:38.004] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
