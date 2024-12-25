@@ -12612,3 +12612,9 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1740767 out of bounds
 [25Dec2024 17:56:20.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [25Dec2024 17:57:18.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
 [25Dec2024 18:00:09.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[25Dec2024 18:05:01.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[25Dec2024 18:07:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Hunted]
+[25Dec2024 18:07:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Bone Crusher]
+[25Dec2024 18:09:33.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was doomed to fall by Door Knight
+[25Dec2024 18:09:33.233] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[25Dec2024 18:09:34.610] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
