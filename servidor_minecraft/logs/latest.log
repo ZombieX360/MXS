@@ -2740,3 +2740,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "/L5(]j4d"
 ]
+[26Dec2024 21:28:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 hit the ground too hard
+[26Dec2024 21:28:31.593] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Dec2024 21:28:33.111] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[26Dec2024 21:29:03.101] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24ee6855[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:44997) lost connection: Disconnected
+[26Dec2024 21:32:44.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:41961] logged in with entity id 163100 at (838.9140252172033, 64.0, 1662.1572981983522)
+[26Dec2024 21:32:44.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Dec2024 21:32:44.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Dec2024 21:32:44.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Dec2024 21:32:44.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Dec2024 21:32:44.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Dec2024 21:32:44.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Dec2024 21:32:44.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Dec2024 21:32:44.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Dec2024 21:32:44.441] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Dec2024 21:32:48.995] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
