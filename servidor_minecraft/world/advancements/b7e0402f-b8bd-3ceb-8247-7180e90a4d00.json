@@ -1815,6 +1815,7 @@
     "criteria": {
       "sweet_berries": "2024-12-23 22:35:17 +0000",
       "cooked_beef": "2024-12-23 21:56:48 +0000",
+      "potato": "2024-12-26 23:06:40 +0000",
       "bread": "2024-12-23 22:37:59 +0000",
       "glow_berries": "2024-12-26 22:49:45 +0000"
     },
@@ -3794,6 +3795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
@@ -3875,6 +3882,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-26 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:05:55 +0000"
     },
     "done": true
   },
@@ -4400,6 +4413,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 23:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 22:49:34 +0000"
@@ -4457,6 +4476,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:05:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 23:05:55 +0000"
     },
     "done": true
   },
