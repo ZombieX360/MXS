@@ -2315,3 +2315,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 20:23:16.925] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [26Dec2024 20:23:18.282] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [26Dec2024 20:23:23.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[26Dec2024 20:28:19.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[26Dec2024 20:30:26.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy

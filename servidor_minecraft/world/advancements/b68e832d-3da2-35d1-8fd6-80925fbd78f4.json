@@ -3994,6 +3994,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-26 20:22:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-26 19:40:01 +0000"
