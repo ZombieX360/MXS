@@ -3033,3 +3033,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 22:45:19.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/241728, l='ServerLevel[world]', x=1204.50, y=74.00, z=1915.50]
 [26Dec2024 22:45:50.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/241936, l='ServerLevel[world]', x=1133.50, y=69.00, z=1970.50]
 [26Dec2024 22:46:51.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1142, y=-28, z=2162}
+[26Dec2024 22:48:42.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[26Dec2024 22:48:59.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[26Dec2024 22:54:35.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/249119, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'

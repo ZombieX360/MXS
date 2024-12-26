@@ -1815,7 +1815,8 @@
     "criteria": {
       "sweet_berries": "2024-12-23 22:35:17 +0000",
       "cooked_beef": "2024-12-23 21:56:48 +0000",
-      "bread": "2024-12-23 22:37:59 +0000"
+      "bread": "2024-12-23 22:37:59 +0000",
+      "glow_berries": "2024-12-26 22:49:45 +0000"
     },
     "done": false
   },
@@ -3703,6 +3704,24 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-26 21:39:37 +0000"
@@ -3943,6 +3962,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -3961,6 +3992,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
@@ -3976,6 +4013,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-26 22:06:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4012,6 +4055,12 @@
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-12-26 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4114,6 +4163,12 @@
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4225,6 +4280,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -4297,6 +4370,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-26 22:38:35 +0000"
@@ -4315,9 +4400,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-26 21:49:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4360,6 +4463,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4411,9 +4520,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
@@ -4441,6 +4562,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/iron_backtank": {
     "criteria": {
       "has_backtank": "2024-12-26 22:09:20 +0000"
@@ -4453,6 +4580,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-26 22:41:59 +0000"
@@ -4462,6 +4595,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-26 22:49:34 +0000"
     },
     "done": true
   },
