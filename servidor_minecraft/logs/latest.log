@@ -2303,3 +2303,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 19:44:05.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [26Dec2024 20:05:31.044] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [26Dec2024 20:05:31.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[26Dec2024 20:18:34.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[26Dec2024 20:21:51.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Sprinter
+[26Dec2024 20:21:51.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[26Dec2024 20:21:51.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[26Dec2024 20:21:51.888] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Dec2024 20:21:53.332] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[26Dec2024 20:21:53.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[26Dec2024 20:22:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Exorcism]
+[26Dec2024 20:23:16.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 fell from a high place
+[26Dec2024 20:23:16.925] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Dec2024 20:23:18.282] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[26Dec2024 20:23:23.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
