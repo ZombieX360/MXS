@@ -2296,3 +2296,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "[-12, -86, -79, -15, 13, -65, -9, -80, -25, 27, -108]"
 ]
 [26Dec2024 19:31:39.697] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[26Dec2024 19:37:02.558] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[26Dec2024 19:39:01.826] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[26Dec2024 19:40:08.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[26Dec2024 19:40:11.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[26Dec2024 19:44:05.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
