@@ -3715,6 +3715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-26 22:41:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -3841,6 +3847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-26 22:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-26 21:35:53 +0000"
@@ -3850,6 +3862,12 @@
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2024-12-26 21:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-26 22:44:12 +0000"
     },
     "done": true
   },
@@ -3937,9 +3955,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
     },
     "done": true
   },
@@ -3955,9 +3985,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-26 22:41:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-26 22:41:59 +0000"
     },
     "done": true
   },
@@ -3979,15 +4021,45 @@
     },
     "done": true
   },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2024-12-26 22:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2024-12-26 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2024-12-26 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
     },
     "done": true
   },
@@ -4021,6 +4093,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2024-12-26 21:36:55 +0000"
@@ -4045,6 +4129,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2024-12-26 21:39:37 +0000"
@@ -4054,6 +4144,18 @@
   "mcwstairs:recipes/cherry": {
     "criteria": {
       "has_planks": "2024-12-26 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 22:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
     },
     "done": true
   },
@@ -4099,6 +4201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-26 22:41:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-26 22:06:44 +0000"
@@ -4108,6 +4216,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
     },
     "done": true
   },
@@ -4183,9 +4297,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/moonstone_block": {
     "criteria": {
       "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-26 22:41:59 +0000"
     },
     "done": true
   },
@@ -4291,6 +4417,18 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/splashing_sail": {
+    "criteria": {
+      "has_water_bucket": "2024-12-26 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-26 22:38:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -4312,6 +4450,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-26 22:41:59 +0000"
     },
     "done": true
   },
