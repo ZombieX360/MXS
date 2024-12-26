@@ -3720,6 +3720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-26 22:26:46 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2024-12-26 22:09:30 +0000"
@@ -3807,6 +3813,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-26 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/coal_piece_from_coal": {
+    "criteria": {
+      "has_coal_piece": "2024-12-26 22:19:39 +0000"
     },
     "done": true
   },
