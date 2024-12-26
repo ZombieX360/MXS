@@ -1044,6 +1044,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-26 22:15:50 +0000",
       "minecraft:skeleton": "2024-12-23 21:48:32 +0000",
       "minecraft:spider": "2024-12-23 22:52:45 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
@@ -3719,6 +3720,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-26 22:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-26 21:35:53 +0000"
@@ -3812,6 +3819,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-26 22:09:20 +0000"
     },
     "done": true
   },
@@ -4160,6 +4173,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-26 22:09:20 +0000"
     },
     "done": true
   },

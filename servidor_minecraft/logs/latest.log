@@ -2763,3 +2763,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 21:47:53.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [False Water]
 [26Dec2024 21:58:55.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Hunted]
 [26Dec2024 21:59:12.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[26Dec2024 22:09:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Suit Up]
+[26Dec2024 22:13:43.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[26Dec2024 22:15:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Pillager
+[26Dec2024 22:15:39.918] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[26Dec2024 22:15:41.690] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[26Dec2024 22:15:46.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
