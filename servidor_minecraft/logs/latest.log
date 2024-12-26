@@ -2988,3 +2988,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 22:27:45.194] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [26Dec2024 22:27:45.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Deceived Hopes]
 [26Dec2024 22:27:46.534] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[26Dec2024 22:29:53.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[26Dec2024 22:29:58.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[26Dec2024 22:29:58.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[26Dec2024 22:29:58.596] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[26Dec2024 22:30:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Full Moon in a Pocket]
+[26Dec2024 22:34:08.327] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=723, y=12, z=1979}
+[26Dec2024 22:34:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[26Dec2024 22:34:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[26Dec2024 22:34:40.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Dripstone Creeper
+[26Dec2024 22:34:40.970] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[26Dec2024 22:34:42.907] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[26Dec2024 22:35:17.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 fell from a high place
+[26Dec2024 22:35:17.846] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Dec2024 22:35:19.597] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[26Dec2024 22:37:43.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/236299, l='ServerLevel[world]', x=1125.50, y=74.00, z=1950.50]
+[26Dec2024 22:37:51.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[26Dec2024 22:38:09.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[26Dec2024 22:38:09.460] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=975, y=-37, z=2109}

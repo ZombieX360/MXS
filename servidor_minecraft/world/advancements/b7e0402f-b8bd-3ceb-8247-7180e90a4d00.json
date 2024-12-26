@@ -357,6 +357,7 @@
       "minecraft:beach": "2024-12-23 21:33:24 +0000",
       "minecraft:river": "2024-12-23 21:47:05 +0000",
       "minecraft:snowy_taiga": "2024-12-23 22:08:27 +0000",
+      "minecraft:lush_caves": "2024-12-26 22:34:18 +0000",
       "minecraft:frozen_ocean": "2024-12-23 22:09:18 +0000",
       "minecraft:snowy_beach": "2024-12-23 22:06:49 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-23 21:38:05 +0000",
@@ -3750,6 +3751,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2024-12-26 21:47:53 +0000"
@@ -3780,9 +3787,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2024-12-26 21:58:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
     },
     "done": true
   },
@@ -3792,9 +3811,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
     },
     "done": true
   },
@@ -3876,6 +3919,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -3885,6 +3934,12 @@
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
     },
     "done": true
   },
@@ -3960,6 +4015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2024-12-26 21:36:55 +0000"
@@ -4026,6 +4087,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -4053,6 +4120,12 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
     },
     "done": true
   },
@@ -4092,6 +4165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
@@ -4101,6 +4180,12 @@
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
     },
     "done": true
   },
@@ -4116,9 +4201,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-26 22:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/bury_blend": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:31:51 +0000"
     },
     "done": true
   },
@@ -4146,6 +4249,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-26 22:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
@@ -4161,6 +4270,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-26 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-26 22:30:06 +0000"
     },
     "done": true
   },
