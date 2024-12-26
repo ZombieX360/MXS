@@ -2761,3 +2761,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 21:38:50.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [26Dec2024 21:38:51.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [26Dec2024 21:47:53.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [False Water]
+[26Dec2024 21:58:55.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Hunted]
+[26Dec2024 21:59:12.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode

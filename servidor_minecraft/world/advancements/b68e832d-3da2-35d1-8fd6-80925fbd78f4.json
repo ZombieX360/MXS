@@ -4062,6 +4062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 22:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 21:31:59 +0000"
@@ -4089,6 +4095,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-26 19:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 22:00:38 +0000"
     },
     "done": true
   },
@@ -4137,6 +4149,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-26 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-26 22:00:38 +0000"
     },
     "done": true
   },
