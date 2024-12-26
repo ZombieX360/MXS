@@ -572,6 +572,7 @@
     "criteria": {
       "shrubland": "2024-12-23 22:44:28 +0000",
       "rocky_shrubland": "2024-12-23 22:44:18 +0000",
+      "highland": "2024-12-26 21:56:40 +0000",
       "maple_woods": "2024-12-23 22:43:34 +0000",
       "field": "2024-12-23 22:14:40 +0000",
       "coniferous_forest": "2024-12-23 21:38:09 +0000",
@@ -580,7 +581,8 @@
       "pumpkin_patch": "2024-12-25 02:59:40 +0000",
       "grassland": "2024-12-23 22:48:15 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:43 +0000",
-      "gravel_beach": "2024-12-23 22:07:09 +0000"
+      "gravel_beach": "2024-12-23 22:07:09 +0000",
+      "glowing_grotto": "2024-12-26 21:53:15 +0000"
     },
     "done": false
   },
@@ -1046,7 +1048,8 @@
       "minecraft:spider": "2024-12-23 22:52:45 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
       "minecraft:zombie": "2024-12-23 21:48:44 +0000",
-      "minecraft:drowned": "2024-12-23 22:27:30 +0000"
+      "minecraft:drowned": "2024-12-23 22:27:30 +0000",
+      "minecraft:zombie_villager": "2024-12-26 21:54:51 +0000"
     },
     "done": false
   },
@@ -3686,6 +3689,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-26 21:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-26 21:35:53 +0000"
@@ -3695,6 +3704,12 @@
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-26 21:47:53 +0000"
     },
     "done": true
   },
@@ -3710,6 +3725,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-26 21:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
@@ -3719,6 +3740,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-26 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-26 21:47:53 +0000"
     },
     "done": true
   },
@@ -3752,9 +3779,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-26 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-26 21:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-26 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-26 21:49:30 +0000"
     },
     "done": true
   },
@@ -3794,9 +3845,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-26 21:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-26 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-26 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-26 21:49:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-26 21:47:53 +0000"
     },
     "done": true
   },

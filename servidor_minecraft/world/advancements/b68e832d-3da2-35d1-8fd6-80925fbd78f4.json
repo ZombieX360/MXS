@@ -4038,6 +4038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 21:46:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2024-12-26 21:32:09 +0000"
@@ -4065,6 +4071,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-26 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2024-12-26 21:48:23 +0000"
     },
     "done": true
   },
