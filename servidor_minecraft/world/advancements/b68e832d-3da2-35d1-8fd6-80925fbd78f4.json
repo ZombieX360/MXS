@@ -743,6 +743,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-24 13:40:48 +0000",
       "minecraft:spider": "2024-12-23 21:40:58 +0000",
+      "minecraft:creeper": "2024-12-26 21:20:23 +0000",
       "minecraft:husk": "2024-12-23 21:59:58 +0000",
       "minecraft:enderman": "2024-12-24 14:38:56 +0000",
       "minecraft:zombie": "2024-12-23 21:57:39 +0000",
@@ -1250,6 +1251,7 @@
       "apple": "2024-12-25 20:54:44 +0000",
       "cooked_cod": "2024-12-26 20:16:07 +0000",
       "bread": "2024-12-23 21:55:06 +0000",
+      "melon_slice": "2024-12-26 21:18:16 +0000",
       "cooked_rabbit": "2024-12-25 19:38:46 +0000",
       "cooked_chicken": "2024-12-24 23:12:42 +0000",
       "carrot": "2024-12-25 02:47:48 +0000"
@@ -3988,9 +3990,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-26 19:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
     },
     "done": true
   },
@@ -4009,6 +4041,30 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-26 19:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 21:16:25 +0000"
     },
     "done": true
   },
