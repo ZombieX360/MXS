@@ -1053,6 +1053,7 @@
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
       "minecraft:piglin": "2024-12-27 02:33:09 +0000",
       "minecraft:zombie": "2024-12-23 21:48:44 +0000",
+      "quark:foxhound": "2024-12-27 02:46:02 +0000",
       "minecraft:drowned": "2024-12-23 22:27:30 +0000",
       "minecraft:zombie_villager": "2024-12-26 21:54:51 +0000"
     },
@@ -4639,6 +4640,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-27 02:51:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
@@ -4669,6 +4676,12 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-27 02:47:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2024-12-27 02:10:10 +0000"
@@ -4677,6 +4690,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-27 02:44:12 +0000",
       "minecraft:basalt_deltas": "2024-12-27 02:35:58 +0000"
     },
     "done": false
@@ -4714,6 +4728,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-27 02:46:37 +0000"
     },
     "done": true
   },
@@ -4951,6 +4971,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-27 02:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
@@ -5050,6 +5076,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-27 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-27 02:46:37 +0000"
     },
     "done": true
   },
@@ -5173,9 +5205,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 02:44:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-12-27 02:24:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 02:46:37 +0000"
     },
     "done": true
   },
@@ -5224,6 +5268,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2024-12-27 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 02:46:37 +0000"
     },
     "done": true
   },
@@ -5329,6 +5379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 02:44:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-27 01:27:42 +0000"
@@ -5428,6 +5484,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:inverted_forest": "2024-12-27 01:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-27 02:46:37 +0000"
     },
     "done": true
   },
@@ -5551,6 +5613,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-27 02:44:44 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2024-12-27 02:22:45 +0000"
@@ -5650,6 +5718,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-27 02:44:44 +0000"
     },
     "done": true
   },
