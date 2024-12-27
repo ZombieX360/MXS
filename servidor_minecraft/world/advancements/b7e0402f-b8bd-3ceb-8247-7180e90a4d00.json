@@ -1047,6 +1047,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-26 22:15:50 +0000",
       "minecraft:skeleton": "2024-12-23 21:48:32 +0000",
+      "minecraft:magma_cube": "2024-12-27 02:55:31 +0000",
       "minecraft:spider": "2024-12-23 22:52:45 +0000",
       "minecraft:piglin_brute": "2024-12-27 02:33:36 +0000",
       "minecraft:creeper": "2024-12-27 02:15:34 +0000",
@@ -1822,7 +1823,9 @@
       "cooked_beef": "2024-12-23 21:56:48 +0000",
       "potato": "2024-12-26 23:06:40 +0000",
       "bread": "2024-12-23 22:37:59 +0000",
-      "glow_berries": "2024-12-26 22:49:45 +0000"
+      "golden_apple": "2024-12-27 02:53:37 +0000",
+      "glow_berries": "2024-12-26 22:49:45 +0000",
+      "golden_carrot": "2024-12-27 02:57:27 +0000"
     },
     "done": false
   },
@@ -4640,12 +4643,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-27 02:51:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
@@ -4752,6 +4749,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -4887,15 +4890,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-27 02:53:04 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_rod": {
     "criteria": {
       "has_iron_rod": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2024-12-27 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -4914,6 +4935,12 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-27 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/basalt_pillar_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5007,6 +5034,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-27 02:53:59 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
@@ -5097,6 +5130,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/layered_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-27 01:52:21 +0000"
@@ -5151,6 +5190,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-27 02:52:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-27 02:10:10 +0000"
@@ -5193,6 +5238,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2024-12-27 02:53:04 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
@@ -5229,9 +5280,21 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-27 02:53:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-27 01:27:42 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5274,6 +5337,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-27 02:46:37 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5331,6 +5400,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-27 01:55:59 +0000"
@@ -5340,6 +5415,12 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5376,6 +5457,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5421,6 +5508,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 01:55:55 +0000"
@@ -5430,6 +5523,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-27 02:55:17 +0000"
     },
     "done": true
   },
@@ -5448,6 +5547,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-27 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5493,6 +5598,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
@@ -5502,6 +5613,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5550,6 +5667,12 @@
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5625,6 +5748,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-27 01:27:42 +0000"
@@ -5685,9 +5814,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5700,6 +5841,12 @@
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-27 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
@@ -5721,15 +5868,33 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2024-12-27 02:44:44 +0000"
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2024-12-27 02:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-27 02:52:44 +0000"
     },
     "done": true
   },
