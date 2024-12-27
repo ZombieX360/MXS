@@ -1048,8 +1048,10 @@
       "minecraft:pillager": "2024-12-26 22:15:50 +0000",
       "minecraft:skeleton": "2024-12-23 21:48:32 +0000",
       "minecraft:spider": "2024-12-23 22:52:45 +0000",
+      "minecraft:piglin_brute": "2024-12-27 02:33:36 +0000",
       "minecraft:creeper": "2024-12-27 02:15:34 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
+      "minecraft:piglin": "2024-12-27 02:33:09 +0000",
       "minecraft:zombie": "2024-12-23 21:48:44 +0000",
       "minecraft:drowned": "2024-12-23 22:27:30 +0000",
       "minecraft:zombie_villager": "2024-12-26 21:54:51 +0000"
@@ -4637,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
@@ -4666,6 +4674,12 @@
       "has_item": "2024-12-27 02:10:10 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-27 02:35:58 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
@@ -4787,6 +4801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-27 02:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2024-12-27 01:55:57 +0000"
@@ -4802,6 +4822,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
     },
     "done": true
   },
@@ -4859,9 +4885,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-27 02:35:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-27 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 02:34:02 +0000"
     },
     "done": true
   },
@@ -4874,6 +4912,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
     },
     "done": true
   },
@@ -4898,6 +4942,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
     },
     "done": true
   },
@@ -4967,6 +5017,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-27 02:34:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-27 01:27:42 +0000"
@@ -4976,6 +5032,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2024-12-27 02:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-27 02:34:22 +0000"
     },
     "done": true
   },
@@ -5153,6 +5215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 02:34:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2024-12-27 01:21:51 +0000"
@@ -5162,6 +5230,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-12-27 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-27 02:34:05 +0000"
     },
     "done": true
   },
@@ -5228,6 +5302,24 @@
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-27 02:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-27 02:34:02 +0000"
     },
     "done": true
   },
@@ -5357,6 +5449,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-27 02:34:00 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-12-27 02:21:53 +0000"
@@ -5417,6 +5515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-27 02:34:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
@@ -5438,6 +5542,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
     },
     "done": true
   },
@@ -5495,6 +5605,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-27 02:34:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-27 02:34:07 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-27 02:22:45 +0000"
@@ -5531,6 +5653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 02:34:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-27 01:49:57 +0000"
@@ -5552,6 +5680,12 @@
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/copper_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-27 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-27 02:33:52 +0000"
     },
     "done": true
   },
