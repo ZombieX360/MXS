@@ -4347,3 +4347,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [27Dec2024 02:01:05.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was struck down by Legioner
 [27Dec2024 02:01:05.033] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [27Dec2024 02:01:06.362] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 02:02:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Little chemist]
+[27Dec2024 02:04:14.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[27Dec2024 02:08:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Cannibal]
+[27Dec2024 02:08:28.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away
+[27Dec2024 02:08:28.482] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 02:08:29.921] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 02:10:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [The Andesite Age]

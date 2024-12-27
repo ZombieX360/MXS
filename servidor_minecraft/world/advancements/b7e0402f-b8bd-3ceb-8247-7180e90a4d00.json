@@ -4648,6 +4648,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 02:03:12 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
@@ -4723,6 +4729,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-27 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "psg:verylittlechemist": {
+    "criteria": {
+      "verylittlechemist_0": "2024-12-27 02:02:13 +0000"
     },
     "done": true
   },
@@ -4809,6 +4821,12 @@
       "incendium:inverted_forest": "2024-12-27 01:52:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 02:03:12 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
@@ -5209,6 +5227,12 @@
   "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 02:03:12 +0000"
     },
     "done": true
   },
