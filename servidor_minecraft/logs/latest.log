@@ -4333,3 +4333,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [27Dec2024 01:43:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was killed by magic whilst trying to escape Missionary
 [27Dec2024 01:43:05.495] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [27Dec2024 01:43:06.779] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 01:52:21.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [We Need to Go Deeper]
+[27Dec2024 01:52:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Incendium]
+[27Dec2024 01:52:27.445] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[27Dec2024 01:52:27.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6503ms or 130 ticks behind
+[27Dec2024 01:52:28.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Strange Biomes]
+[27Dec2024 01:52:47.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5503ms or 110 ticks behind
+[27Dec2024 01:53:09.950] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[27Dec2024 01:59:40.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Dec2024 01:59:40.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[27Dec2024 02:00:10.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58701, l='ServerLevel[world]', x=912.55, y=-256.00, z=1650.66] died, message: 'Unemployed was killed'
+[27Dec2024 02:00:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Ambush]
+[27Dec2024 02:01:05.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was struck down by Legioner
+[27Dec2024 02:01:05.033] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 02:01:06.362] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
