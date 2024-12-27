@@ -20016,3 +20016,48 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [27Dec2024 02:10:54.032] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
 [27Dec2024 02:10:54.032] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
 [27Dec2024 02:10:54.032] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.286] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.287] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.287] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.287] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.287] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.288] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.288] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:13:54.288] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:14:01.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 02:14:01.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 02:14:02.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/72361, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[27Dec2024 02:14:02.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/72361, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[27Dec2024 02:14:02.107] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/72361, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[27Dec2024 02:14:15.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73594, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[27Dec2024 02:15:56.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73932, l='ServerLevel[world]', x=923.88, y=-256.00, z=1644.26] died, message: 'Unemployed was killed'
+[27Dec2024 02:18:15.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/74480, l='ServerLevel[world]', x=923.97, y=-256.00, z=1651.06] died, message: 'Unemployed was killed'
+[27Dec2024 02:18:53.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/74532, l='ServerLevel[world]', x=922.50, y=97.00, z=1643.50] died, message: 'Unemployed was killed'
+[27Dec2024 02:19:01.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 02:19:01.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 02:19:02.116] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/75834, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[27Dec2024 02:19:02.117] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/75834, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[27Dec2024 02:19:02.189] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/75834, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[27Dec2024 02:19:57.694] [Server thread/DEBUG] [mixin/]: Mixing PressingBehaviourMixin from sliceanddice.mixins.json into com.simibubi.create.content.kinetics.press.PressingBehaviour
+[27Dec2024 02:19:57.696] [Server thread/DEBUG] [mixin/]: sliceanddice.mixins.json:PressingBehaviourMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Dec2024 02:19:57.733] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[27Dec2024 02:19:57.734] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[27Dec2024 02:20:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Direwolf
+[27Dec2024 02:20:16.324] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:930, y:106, z:1660, dim:minecraft:overworld]
+[27Dec2024 02:20:16.340] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 02:20:17.736] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Dec2024 02:20:17.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:35.436] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[27Dec2024 02:21:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Direwolf
+[27Dec2024 02:21:37.058] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:930, y:105, z:1662, dim:minecraft:overworld]
+[27Dec2024 02:21:37.085] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 02:21:38.486] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Dec2024 02:21:38.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 02:21:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Bonk!]

@@ -4406,6 +4406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 02:15:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-27 01:27:45 +0000"
@@ -4424,6 +4430,18 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 02:15:00 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/jungle": {
     "criteria": {
       "has_planks": "2024-12-27 01:30:51 +0000"
@@ -4439,6 +4457,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-27 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-27 02:15:00 +0000"
     },
     "done": true
   },
