@@ -4388,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 01:30:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2024-12-27 01:27:45 +0000"
@@ -4397,6 +4403,30 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-27 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-27 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2024-12-27 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2024-12-27 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 01:30:51 +0000"
     },
     "done": true
   },
