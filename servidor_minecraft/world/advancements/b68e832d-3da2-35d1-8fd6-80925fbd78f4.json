@@ -4412,6 +4412,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-27 03:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-27 01:27:45 +0000"
@@ -4445,6 +4451,12 @@
   "mcwstairs:recipes/jungle": {
     "criteria": {
       "has_planks": "2024-12-27 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2024-12-27 03:05:13 +0000"
     },
     "done": true
   },

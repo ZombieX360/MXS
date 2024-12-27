@@ -11510,3 +11510,10 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [27Dec2024 03:02:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
 [27Dec2024 03:02:05.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
 [27Dec2024 03:03:24.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[27Dec2024 03:04:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Corpse Fly
+[27Dec2024 03:04:25.721] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 03:04:27.119] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[27Dec2024 03:05:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Arachnophobe's Nightmare]
+[27Dec2024 03:08:39.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[27Dec2024 03:08:39.224] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Dec2024 03:08:40.764] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
