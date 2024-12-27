@@ -4841,6 +4841,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2024-12-27 01:52:48 +0000"
@@ -4856,6 +4862,12 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-27 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
@@ -4937,9 +4949,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
@@ -4997,6 +5021,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-27 02:24:46 +0000"
+    },
+    "done": false
+  },
   "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
     "criteria": {
       "has_cogwheel": "2024-12-27 02:11:31 +0000"
@@ -5045,6 +5081,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-27 01:27:42 +0000"
@@ -5066,6 +5108,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-27 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-27 02:24:36 +0000"
     },
     "done": true
   },
@@ -5162,6 +5210,24 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-27 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
@@ -5291,6 +5357,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-27 02:21:53 +0000"
+    },
+    "done": true
+  },
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_clear_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-27 02:10:10 +0000"
@@ -5312,6 +5384,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-27 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-27 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
@@ -5354,6 +5438,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-27 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
@@ -5402,6 +5492,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-27 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2024-12-27 02:22:45 +0000"
     },
     "done": true
   },
